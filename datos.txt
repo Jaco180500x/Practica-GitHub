@@ -3,3 +3,10 @@ Practica de GitHub
 Nombre: Jesús Alfonso Campos Osorio
 Materia: Gestión de Proyecto de Software
 Actividad: Repositorios y control de versiones
+
+Tecnologías utilizadas:
+- GitHub
+- Repositorios
+- Ramas
+- Commits
+- Pull Requests
